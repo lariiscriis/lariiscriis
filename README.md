@@ -26,7 +26,7 @@
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=lariiscriis&show_icons=true&theme=rose&include_all_commits=true&count_private=true"/>
 </div>
 
-  ## 🛠️ Trabalho Com: 
+  ## 🛠️ Working with: 
 
   <table align="center">
     <tr>
@@ -58,7 +58,7 @@
     </tr>
 </table>
 
-## 📲 Minhas Redes 
+## 📲 Connect with me:
 <div  align="center">
 <a href="https://www.linkedin.com/in/larissa-cristina-45488532a/" target="_blank" style="margin-right: 10px;">
     <img src="https://img.shields.io/badge/-LinkedIn-FE9093?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" width="100" height="30" />
