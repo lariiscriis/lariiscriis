@@ -2,7 +2,7 @@
   
 ## 👋 Hi! I’m *@lariiscriis*, welcome to my *GitHub* profile (●'◡'●).
 <div>
-  <img align="right" alt="lariiscriis" width="230" height="230" src="https://i.pinimg.com/736x/9c/64/11/9c6411d33b863041f6f43bfe84ff919a.jpg">
+  <img align="right" alt="lariiscriis" width="230" height="230" src="https://i.pinimg.com/736x/5c/90/1e/5c901eed976bfefe0132077d910008d7.jpg">
   </div>
   <br>
 
@@ -59,15 +59,20 @@
 </table>
 
 ## 📲 Minhas Redes 
-
+<div  align="center">
 <a href="https://www.linkedin.com/in/larissa-cristina-45488532a/" target="_blank" style="margin-right: 10px; border-radius: 10em;">
     <img src="https://img.shields.io/badge/-LinkedIn-FE9093?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" width="100" height="30" />
 </a>
 <a href="https://www.instagram.com/laris_criis/" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-FE9093?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge" width="100" height="30" />
 </a>
+  </div>
 
+<br> 
 
+<div  align="center">
+<img width="600"src="https://i.pinimg.com/originals/f6/29/36/f629365f298cad35688f34b4d456945f.gif"/>
+</div>
 
 
 
