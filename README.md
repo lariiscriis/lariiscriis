@@ -67,7 +67,7 @@
     <img src="https://img.shields.io/badge/-Instagram-FE9093?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge" width="100" height="30" />
 </a>
 
-  <a href="larissa.santana.ae2020@gmail.com" target="_blank" style="margin-right: 10px;">
+  <a href="mailto:larissa.santana.ae2020@gmail.com" target="_blank" style="margin-right: 10px;">
      <img src="https://img.shields.io/badge/-Email-FE9093?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge" width="100" height="30" />
 </a>
   </div>
