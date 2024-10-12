@@ -20,7 +20,7 @@
 <hr>
 
 ##  📊 Stats  
-<div>
+<div align="center">
 <a href="https://github.com/lariiscriis">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lariiscriis&layout=compact&langs_count=7&theme=rose"/>
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=lariiscriis&show_icons=true&theme=rose&include_all_commits=true&count_private=true"/>
@@ -28,7 +28,7 @@
 
   ## 🛠️ Trabalho Com: 
 
-  <table>
+  <table align="center">
     <tr>
         <td align="center">
             <img width="100" height="100" src="https://github.com/user-attachments/assets/40b55e67-4318-4c47-85e8-3ed6d0c0e8fb" alt="java-coffee-cup-logo"/>
@@ -60,11 +60,15 @@
 
 ## 📲 Minhas Redes 
 <div  align="center">
-<a href="https://www.linkedin.com/in/larissa-cristina-45488532a/" target="_blank" style="margin-right: 10px; border-radius: 10em;">
+<a href="https://www.linkedin.com/in/larissa-cristina-45488532a/" target="_blank" style="margin-right: 10px;">
     <img src="https://img.shields.io/badge/-LinkedIn-FE9093?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" width="100" height="30" />
 </a>
 <a href="https://www.instagram.com/laris_criis/" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-FE9093?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge" width="100" height="30" />
+</a>
+
+  <a href="larissa.santana.ae2020@gmail.com" target="_blank" style="margin-right: 10px;">
+     <img src="https://img.shields.io/badge/-Email-FE9093?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge" width="100" height="30" />
 </a>
   </div>
 
