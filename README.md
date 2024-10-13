@@ -31,28 +31,28 @@
   <table align="center">
     <tr>
         <td align="center">
-            <img width="100" height="100" src="https://github.com/user-attachments/assets/40b55e67-4318-4c47-85e8-3ed6d0c0e8fb" alt="java-coffee-cup-logo"/>
+            <img style="width: 100%; max-width: 300px;" src="https://github.com/user-attachments/assets/40b55e67-4318-4c47-85e8-3ed6d0c0e8fb" alt="java-coffee-cup-logo"/>
             <br>Java
         </td>
         <td align="center">
-            <img width="100" height="100" src="https://github.com/user-attachments/assets/9bb0576b-418d-4875-9f96-3abee3c6e7b4" alt="php-logo"/>
+            <img style="width: 100%; max-width: 300px;" src="https://github.com/user-attachments/assets/9bb0576b-418d-4875-9f96-3abee3c6e7b4" alt="php-logo"/>
             <br>PHP
         </td>
         <td align="center">
-            <img  width="100" height="100" src="https://github.com/user-attachments/assets/5dfdfa14-28be-4b45-8e4f-2881bf96aa9c" alt="csharp-logo"/>
+            <img  style="width: 100%; max-width: 300px;"src="https://github.com/user-attachments/assets/5dfdfa14-28be-4b45-8e4f-2881bf96aa9c" alt="csharp-logo"/>
             <br>C#
         </td>
        <td align="center">
-            <img  width="100" height="100" src="https://github.com/user-attachments/assets/84d8ac1d-e992-485a-af7c-534cf0b786a8" alt="cplus-logo"/>
+            <img  style="width: 100%; max-width: 300px;" src="https://github.com/user-attachments/assets/84d8ac1d-e992-485a-af7c-534cf0b786a8" alt="cplus-logo"/>
             <br>C++
         </td>
         <td align="center">
-            <img  width="100" height="100" src="https://github.com/user-attachments/assets/3fb61c09-0346-419c-b193-df4f6f6b78c0" alt="javascript-logo"/>
+            <img  style="width: 100%; max-width: 300px;" src="https://github.com/user-attachments/assets/3fb61c09-0346-419c-b193-df4f6f6b78c0" alt="javascript-logo"/>
             <br>Javascript
         </td>
          </td>
         <td align="center">
-            <img  width="100" height="100" src="https://github.com/user-attachments/assets/e3509be1-d449-411d-adae-5e8ab3108ead" alt="sql-logo"/>
+            <img  style="width: 100%; max-width: 300px;" src="https://github.com/user-attachments/assets/e3509be1-d449-411d-adae-5e8ab3108ead" alt="sql-logo"/>
             <br>SQL
         </td>
     </tr>
