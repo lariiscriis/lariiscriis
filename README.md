@@ -1,6 +1,6 @@
 
   
-## 👋 Hi! I’m *@lariiscriis*, welcome to my *GitHub* profile (●'◡'●).
+## 👋 Hi! I’m `@lariiscriis`, welcome to my `GitHub profile` (●'◡'●).
 <div>
   <img align="right" alt="lariiscriis" width="230" height="230" src="https://i.pinimg.com/736x/5c/90/1e/5c901eed976bfefe0132077d910008d7.jpg">
   </div>
