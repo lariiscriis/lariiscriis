@@ -1,6 +1,5 @@
 
-  
-## 👋 Hi! I’m `@lariiscriis`, welcome to my `GitHub profile` (●'◡'●).
+ ##  <div align="center"> 👋 Hi! I’m `@lariiscriis`, welcome to my `GitHub profile` (●'◡'●).</div>
 <div>
   <img align="right" alt="lariiscriis" width="230" height="230" src="https://i.pinimg.com/736x/5c/90/1e/5c901eed976bfefe0132077d910008d7.jpg">
   </div>
@@ -15,7 +14,7 @@
 - 🌱  I'm also interested in working in the **data field** and exploring opportunities in data analysis!
 
 - ✨ **Pronouns:** She/Her
-
+</div>
 
 <hr>
 
