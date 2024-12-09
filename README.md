@@ -26,16 +26,30 @@
 <br>
 
 ## <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1000&pause=1000&color=FFA4C7&repeat=false&width=435&lines=%E2%9D%A4%EF%B8%8F+Favorite+Repos" alt="Typing SVG" /></a>
+<div align="center">
+<!-- Link para o repositório projetoDejaVu -->
+<a href="https://github.com/lariiscriis/projetoDejaVu">
+  <picture>
+    <img width="30%"  src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=lariiscriis&repo=projetoDejaVu&theme=react&bg_color=0d1117&title_color=fff&border_color=FFA4C7&icon_color=FFA4C7&show_icons=true" alt="projetoDejaVu" />
+  </picture>
+</a>
 
+<!-- Link para o repositório Laravel_CRUD -->
 <a href="https://github.com/lariiscriis/Laravel_CRUD">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=lariiscriis&repo=Laravel_CRUD&theme=react&bg_color=0d1117&title_color=fff&border_color=FFA4C7&icon_color=FFA4C7&show_icons=true">
-    <source media="(prefers-color-scheme: light)" srcset="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=lariiscriis&repo=Laravel_CRUD&theme=moltack&bg_color=FFFFFF&title_color=000000&border_color=FFA4C7&icon_color=FFA4C7&show_icons=true">
-    <img width="32.5%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=lariiscriis&repo=Laravel_CRUD&theme=react&bg_color=0d1117&title_color=fff&border_color=FFA4C7&icon_color=FFA4C7&show_icons=true" alt="Laravel_CRUD" />
+    <img width="30%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=lariiscriis&repo=Laravel_CRUD&theme=react&bg_color=0d1117&title_color=fff&border_color=FFA4C7&icon_color=FFA4C7&show_icons=true" alt="Laravel_CRUD" />
+  </picture>
+</a>
+
+<!-- Link para o repositório AtividadeListas_JAVA -->
+<a href="https://github.com/lariiscriis/AtividadeListas_JAVA">
+  <picture>
+    <img width="30%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=lariiscriis&repo=AtividadeListas_JAVA&theme=react&bg_color=0d1117&title_color=fff&border_color=FFA4C7&icon_color=FFA4C7&show_icons=true" alt="AtividadeListas_JAVA" />
   </picture>
 </a>
 
 
+</div>
 
 ## 🛠️ Working with: 
 
