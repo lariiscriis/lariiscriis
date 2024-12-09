@@ -48,6 +48,13 @@
   </picture>
 </a>
 
+<p align="center"><br>
+  <a href="https://github.com/lariiscriis?tab=repositories">
+    <picture>
+      <img width="32.5%" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-FFA4C7?style=for-the-badge&logoColor=FFFFFF&logo=repo" alt="All Repositories" title="All Repositories" />
+    </picture>
+  </a>
+</p>
 
 </div>
 
@@ -86,9 +93,18 @@
 
 ##  📊 Stats  
 <div align="center">
-<a href="https://github.com/lariiscriis">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lariiscriis&layout=compact&langs_count=7&theme=rose"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=lariiscriis&show_icons=true&theme=rose&include_all_commits=true&count_private=true"/>
+<img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lariiscriis&cardType=github&bg_color=00000000&Text=FFFFFF&title_color=FFA4C7FF&border_color=FFA4C7&card_width=200" alt="readme-typing-svg">
+
+ 
+  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=tokyonight&preferLogin=true&Background=00000000&Text=FFFFFF&Title=FFA4C7&Ring=FFA4C7&Border=FFA4C7">
+    <img   width="50%" alt="lariiscriis's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/lariiscriis?cardType=github&theme=tokyonight&preferLogin=true&Background=00000000&Text=FFFFFF&Title=FFA4C7&Ring=FFA4C7&Border=FFA4C7" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img  width="50%" src="https://github-readme-streak-stats.herokuapp.com?user=lariiscriis&theme=omni&background=00000000&border=FFA4C7&ring=FFA4C7&stroke=FFA4C7&fire=FFA4C7&currStreakNum=FF4BB4&sideNums=FF4BB4&currStreakLabel=FF4BB4" alt="GitHub Streak" />
+  </a>
 </div>
 
 
@@ -105,7 +121,7 @@
   <a href="mailto:larissa.santana.ae2020@gmail.com" target="_blank" style="margin-right: 10px;">
      <img src="https://img.shields.io/badge/-Email-FE9093?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge" width="100" height="30" />
 </a>
-  </div>
+ </div>
 
 <br> 
 
