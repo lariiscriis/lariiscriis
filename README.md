@@ -25,9 +25,19 @@
 
 <br>
 
-## <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFA4C7&width=435&lines=%E2%9D%A4%EF%B8%8F+Favorite+Repos" alt="Typing SVG" /></a>
+## <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1000&pause=1000&color=FFA4C7&repeat=false&width=435&lines=%E2%9D%A4%EF%B8%8F+Favorite+Repos" alt="Typing SVG" /></a>
 
-  ## 🛠️ Working with: 
+<a href="https://github.com/lariiscriis/Laravel_CRUD">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=lariiscriis&repo=Laravel_CRUD&theme=react&bg_color=0d1117&title_color=fff&border_color=FFA4C7&icon_color=FFA4C7&show_icons=true">
+    <source media="(prefers-color-scheme: light)" srcset="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=lariiscriis&repo=Laravel_CRUD&theme=moltack&bg_color=FFFFFF&title_color=000000&border_color=FFA4C7&icon_color=FFA4C7&show_icons=true">
+    <img width="32.5%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=lariiscriis&repo=Laravel_CRUD&theme=react&bg_color=0d1117&title_color=fff&border_color=FFA4C7&icon_color=FFA4C7&show_icons=true" alt="Laravel_CRUD" />
+  </picture>
+</a>
+
+
+
+## 🛠️ Working with: 
 
   <table align="center">
     <tr>
