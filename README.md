@@ -30,21 +30,21 @@
 <!-- Link para o repositório projetoDejaVu -->
 <a href="https://github.com/lariiscriis/projetoDejaVu">
   <picture>
-    <img width="30%"  src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=lariiscriis&repo=projetoDejaVu&theme=react&bg_color=fdd7e6&title_color=ff75aa&border_color=FFA4C7&icon_color=ff75aa&show_icons=true" alt="projetoDejaVu" />
+    <img width="30%"  src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=lariiscriis&repo=projetoDejaVu&theme=react&bg_color=fdd7e6&title_color=ff75aa&border_color=FFA4C7&icon_color=ff75aa&show_icons=true&text_color=ab406a" alt="projetoDejaVu" />
   </picture>
 </a>
 
 <!-- Link para o repositório Laravel_CRUD -->
 <a href="https://github.com/lariiscriis/Laravel_CRUD">
   <picture>
-    <img width="30%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=lariiscriis&repo=Laravel_CRUD&theme=react&bg_color=fdd7e6&title_color=ff75aa&border_color=FFA4C7&icon_color=ff75aa&show_icons=true" alt="Laravel_CRUD" />
+    <img width="30%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=lariiscriis&repo=Laravel_CRUD&theme=react&bg_color=fdd7e6&title_color=ff75aa&border_color=FFA4C7&icon_color=ff75aa&show_icons=true&text_color=ab406a" alt="Laravel_CRUD" />
   </picture>
 </a>
 
 <!-- Link para o repositório AtividadeListas_JAVA -->
 <a href="https://github.com/lariiscriis/AtividadeListas_JAVA">
   <picture>
-    <img width="30%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=lariiscriis&repo=AtividadeListas_JAVA&theme=react&bg_color=fdd7e6&title_color=ff75aa&border_color=FFA4C7&icon_color=ff75aa&show_icons=true" alt="AtividadeListas_JAVA" />
+    <img width="30%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=lariiscriis&repo=AtividadeListas_JAVA&theme=react&bg_color=fdd7e6&title_color=ff75aa&border_color=FFA4C7&icon_color=ff75aa&show_icons=true&text_color=ab406a" alt="AtividadeListas_JAVA" />
   </picture>
 </a>
 
