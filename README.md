@@ -35,9 +35,9 @@
 </a>
 
 <!-- Link para o repositório Laravel_CRUD -->
-<a href="https://github.com/lariiscriis/Laravel_CRUD">
+<a href="https://github.com/lariiscriis/AnaliseCOVID_googlecolab">
   <picture>
-    <img width="30%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=lariiscriis&repo=Laravel_CRUD&theme=react&bg_color=fdd7e6&title_color=ff75aa&border_color=FFA4C7&icon_color=ff75aa&show_icons=true&text_color=ab406a" alt="Laravel_CRUD" />
+    <img width="30%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=lariiscriis&repo=Laravel_CRUD&theme=react&bg_color=fdd7e6&title_color=ff75aa&border_color=FFA4C7&icon_color=ff75aa&show_icons=true&text_color=ab406a" alt="Analise - Covid19" />
   </picture>
 </a>
 
