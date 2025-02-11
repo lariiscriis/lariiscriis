@@ -42,9 +42,9 @@
 </a>
 
 <!-- Link para o repositório AtividadeListas_JAVA -->
-<a href="https://github.com/lariiscriis/AtividadeListas_JAVA">
+<a href="https://github.com/lariiscriis/CRUD_StarSign">
   <picture>
-    <img width="30%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=lariiscriis&repo=AtividadeListas_JAVA&theme=react&bg_color=fdd7e6&title_color=ff75aa&border_color=FFA4C7&icon_color=ff75aa&show_icons=true&text_color=ab406a" alt="AtividadeListas_JAVA" />
+    <img width="30%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=lariiscriis&repo=CRUD_StarSign&theme=react&bg_color=fdd7e6&title_color=ff75aa&border_color=FFA4C7&icon_color=ff75aa&show_icons=true&text_color=ab406a" alt="CRUD_StarSign" />
   </picture>
 </a>
 
