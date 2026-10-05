@@ -34,19 +34,18 @@ I enjoy working across the stack, from interfaces and mobile applications to API
 - 🏢 Former Software Development Intern at **Hyundai Motor Company Brasil**
 </div>
 
-<br>
-
 ## ✨ Highlights
 
 <div align="center">
 
-<table> <tr>
+<table>
+<tr>
 
-<td align="center" width="50%">
+<td align="center" width="50%" valign="top">
 
-☁️ AWS
+<h3>☁️ AWS</h3>
 
-<img src="https://img.shields.io/badge/AWS-Certified%20Cloud%20Practitioner-FFA4C7?style=for-the-badge&logo=amazonaws&logoColor=white">
+<img height="28" src="https://img.shields.io/badge/AWS-Certified%20Cloud%20Practitioner-FFA4C7?style=for-the-badge&logo=amazonaws&logoColor=white">
 
 <br><br>
 
@@ -58,13 +57,13 @@ Cloud fundamentals · IAM · EC2 · S3 · RDS · VPC · Security
 
 </td>
 
-<td align="center" width="50%">
+<td align="center" width="50%" valign="top">
 
-🇺🇸 English
+<h3>🇺🇸 English</h3>
 
-<img src="https://img.shields.io/badge/English-C1%20%7C%20Advanced-FFA4C7?style=for-the-badge&logoColor=white">
+<img height="28" src="https://img.shields.io/badge/English-C1%20%7C%20Advanced-FFA4C7?style=for-the-badge&logoColor=white">
 
-<br><br><br>
+<br><br>
 
 <b>TOEIC — 925 / 990</b>
 
@@ -74,9 +73,11 @@ Listening <b>495</b> · Reading <b>430</b>
 
 </td>
 
-</tr> </table>
+</tr>
+</table>
 
 </div>
+
 
 ## 🏢 Experience
 
